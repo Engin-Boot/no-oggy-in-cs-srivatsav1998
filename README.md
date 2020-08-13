@@ -3,10 +3,8 @@
 
 ## Intention
 
-This program intends to remove strings containing 'oggy' from a list of strings.
+Alice is phobiac to the name oggy and wants to remove names starting with oggy. This code is intended to solve that purpose. If you are someone like Alice, this code is for you.
 
 ## Method
 
-The code doesn't work according to the intention. Make it succeed.
-
-Don't forget to update this file after fixing the code.
+When passed with list of names to RemoveOggy function, it removes all the names starting with oggy and returns the remaining list.  
